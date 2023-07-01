@@ -1,6 +1,6 @@
 # PhotoService
 
-## 如何部署
+
 
 ### 提前准备
 你唯一需要提前准备的就是一个Cloudflare账户
